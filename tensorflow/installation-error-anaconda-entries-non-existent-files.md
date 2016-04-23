@@ -3,7 +3,8 @@
 When seeing this error during a TensorFlow install using a non-sudo pip
 install: 
 
-``` Cannot remove entries from nonexistent file /home/<username>/anaconda/lib/python2.7/site-packages/easy-install.pth 
+``` 
+Cannot remove entries from nonexistent file /home/<username>/anaconda/lib/python2.7/site-packages/easy-install.pth 
 ```
 
 simply download the package directly from the URL indicated in the
